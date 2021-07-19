@@ -2,7 +2,7 @@
 #Autor: Danilo Mendes Amorim
 #Data:18/07/21
 
-import cv2
+import cv2 #Pacore
 import numpy as np
 import matplotlib.pyplot
 from matplotlib import pyplot as plt
